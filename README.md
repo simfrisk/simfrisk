@@ -1,6 +1,6 @@
 👋 Hi, I’m Simon Frisk!
 
-💻 I’m a developer who loves building cool things, solving problems, and learning new technologies.
+💻 I’m a developer working at Eyevinn Open Cloud Source.
 
 🚀 About Me
 	•	🔭 Currently working on: Classync.
